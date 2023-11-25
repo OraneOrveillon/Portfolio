@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion"
+  ],
+  "unwantedRecommendations": []
+}
